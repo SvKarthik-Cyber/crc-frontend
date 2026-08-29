@@ -1,0 +1,5 @@
+export const ADVISORY_STATUSES = Object.freeze({
+  DRAFT: 'DRAFT',
+  PUBLISHED: 'PUBLISHED',
+  ARCHIVED: 'ARCHIVED',
+})

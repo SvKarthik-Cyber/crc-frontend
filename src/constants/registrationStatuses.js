@@ -1,0 +1,11 @@
+export const REGISTRATION_STATUSES = Object.freeze({
+  PENDING: 'PENDING',
+  APPROVED: 'APPROVED',
+  REJECTED: 'REJECTED',
+})
+
+export const ACCOUNT_STATUSES = Object.freeze({
+  INACTIVE: 'INACTIVE',
+  ACTIVE: 'ACTIVE',
+  SUSPENDED: 'SUSPENDED',
+})
